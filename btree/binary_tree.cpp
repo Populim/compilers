@@ -1,10 +1,9 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include "binary_tree.h"
 #include <iostream>
-#include <string>
 
 using namespace std;
-
-
-
 
 // how it works:
 // https://runestone.academy/runestone/books/published/cppds/Trees/ParseTree.html
@@ -72,8 +71,6 @@ class BT {
 //implement the string -> binarytree function
 
 
-int main(){
-	cout << " Hello;World \n";
-	
+int main(){	
 
 }
